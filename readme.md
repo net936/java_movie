@@ -12,9 +12,7 @@
 演示地址：[https://movie.gitapp.cn](https://movie.gitapp.cn)
 
 
-## 源码下载
 
-https://github.com/geeeeeeeek/java_movie
 
 
 ## 主要功能
